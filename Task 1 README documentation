@@ -1,0 +1,27 @@
+# Cognifyz Technologies – Data Analytics Internship
+This repository contains my work completed during my **Data Analytics Internship at Cognifyz Technologies**.
+
+## 📊 Task 1: Data Overview
+### Objective
+Understand the structure and basic characteristics of the dataset.
+
+### What I worked on
+- Loaded the dataset using **Python and Pandas**
+- Displayed the first 5 rows of the dataset
+- Identified the number of entries and columns
+- Examined column names and data types
+- Used `info()` to understand the dataset structure
+- Generated descriptive statistics using `describe()`
+- Checked for missing values
+
+### 🛠️ Technologies Used
+- Python
+- Pandas
+- Data Analysis
+
+### 📁 Project Files - `Task_1.py` – Python implementation for the Data Overview task
+
+### 📌 Dataset - The dataset used for this task was provided as part of the **Cognifyz Technologies internship** and is not included in this repository.
+
+### 🎯 Learning Outcome
+This task helped me develop a practical understanding of **dataset exploration, data types, missing-value analysis, and descriptive statistics using Python and Pandas**.
